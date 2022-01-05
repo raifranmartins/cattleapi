@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{79A907BE-2C0A-48B0-8638-75FEDCD57BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCattleApi", "WebCattleApi\WebCattleApi.csproj", "{D5C3CB53-24CE-4C65-9044-18578101C411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A907BE-2C0A-48B0-8638-75FEDCD57BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A907BE-2C0A-48B0-8638-75FEDCD57BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A907BE-2C0A-48B0-8638-75FEDCD57BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A907BE-2C0A-48B0-8638-75FEDCD57BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C3CB53-24CE-4C65-9044-18578101C411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C3CB53-24CE-4C65-9044-18578101C411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C3CB53-24CE-4C65-9044-18578101C411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C3CB53-24CE-4C65-9044-18578101C411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5840A4-58EC-417D-871E-61EC2D65A183}
+	EndGlobalSection
+EndGlobal
